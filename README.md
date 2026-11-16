@@ -27,7 +27,6 @@ Away from home, I’ll open a hostname such as `pve.example.com` in a browser. C
 
 ## Installation and configuration
 
-- [ ] Verify the hardware and back up files on the SSD before installing Proxmox.
 - [ ] Create the Proxmox VE installer USB, boot the ThinkCentre from it, and install the hypervisor.
 - [ ] Configure its management address and sign in from my main PC over the LAN.
 - [ ] Set up my domain in Cloudflare DNS and choose a subdomain for Proxmox.
